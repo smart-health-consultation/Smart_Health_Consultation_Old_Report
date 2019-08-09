@@ -1,0 +1,28 @@
+1- Login page
+* Doctor or patient
+   Username
+   Password
+   Forgot password
+   If new account register
+1.1- registration page
+   Location for adding details of users. Where doctor and patient have different pages 
+-Home
+
+- Appointment 
+ * Symptoms 
+    +When patient adding a symptom new symptoms list will come according to previous added symptoms
+   +Submit It will take a list of doctors
+ * Doctor list 
+   + Each doctor's rate, review and fees for appointment. Select a doctor from the list 
+Submit it will take time slots list
+* Time slots list 
+  +select with patient convenient submit it will take billing section
+* Billing section
+  +Different payment way like paytm Google pay like options 
+ + Pay button will take back home
+ 
+ [26/11 2:59 pm] Afee: https://www.kaggle.com/plarmuseau/sdsort/home
+[26/11 3:00 pm] Afee: https://www.kaggle.com/plarmuseau/primer
+[26/11 3:00 pm] Afee: https://www.kaggle.com/plarmuseau/symptom-disease-recommender
+[26/11 3:09 pm] Afee: http://people.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html
+[26/11 3:11 pm] Afee: https://github.com/anujdutt9/Disease-Prediction-from-Symptoms
